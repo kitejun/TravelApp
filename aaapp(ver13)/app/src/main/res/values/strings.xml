@@ -1,0 +1,685 @@
+<resources>
+    <string name="app">오빠 어디가?</string>
+
+    <string-array name="Suncheonman">
+        <item name="Suncheonman_name">순천만</item>
+        <item name="Suncheonman_intro">전라남도 남해안 고흥반도와 여수반도 사이에 있는 만에 위치. 보성군·고흥군·여수시·순천시 등과 접해 있다. 소백산맥에서 갈라져 고흥반도와 여수반도로 뻗어내린 지맥이 침강하여 이루어진 만이다.</item>
+        <item name="Suncheonman_addr">전라남도 순천시 순천만길 513-25</item>
+        <item name="Suncheonman_time">8:00 ~ 19:00</item>
+        <item name="Suncheonman_pay">성인 : 8000원</item>
+        <item name="Suncheonman_phone">061-749-6052</item>
+        <item name="Suncheonman_image1">https://img1.daumcdn.net/thumb/R720x0/?fname=http://t1.daumcdn.net/liveboard/TMONTOUR/3ffcc861e92c46a78d30f1576c3affe8.JPG</item>
+        <item name="Suncheonman_image2">https://img1.daumcdn.net/thumb/R720x0/?fname=http://t1.daumcdn.net/liveboard/TMONTOUR/df6d234d7fba4d5781a97f19430d61e6.JPG</item>
+        <item name="Suncheonman_image3">https://img1.daumcdn.net/thumb/R720x0/?fname=http://t1.daumcdn.net/liveboard/TMONTOUR/3dc7383585b74d62a3319cd02d8356c4.JPG</item>
+        <item name="Suncheonman_image4">https://img1.daumcdn.net/thumb/R720x0/?fname=http://t1.daumcdn.net/liveboard/TMONTOUR/ef40b3ee6d114a0a89e5cc42a7aaba3c.JPG</item>
+        <item name="Suncheonman_URL">http://www.suncheonbay.go.kr/</item>
+    </string-array>
+
+    <string-array name="Yeosu">
+        <item name="Suncheonman_name">여수 아쿠아 플라넷</item>
+        <item name="Yeosu_intro">아쿠아 플라넷은 전남 여수시 여수신항 제2부두 인근에 자리한 국내 2위 규모의 아쿠아리움으로 특히 국내에서는 처음으로 지상(4층 규모)에 들어선다는 점이 특징이다."</item>
+        <item name="Yeosu_addr">전라남도 여수시 오동도로 61-11 아쿠아리움</item>
+        <item name="Yeosu_time">10:00 ~ 19:00 ※입장마감 18시</item>
+        <item name="Yeosu_pay">성인 : 23000원</item>
+        <item name="Yeosu_phone">061-660-1111</item>
+        <item name="Yeosu_image1">http://www.aquazium.co.kr/resource/img/contents/gallery_yeosu2.png</item>
+        <item name="Yeosu_image2">http://www.aquazium.co.kr/resource/img/contents/gallery_yeosu3.png</item>
+        <item name="Yeosu_image3">http://www.aquazium.co.kr/resource/img/contents/gallery_yeosu4.png</item>
+        <item name="Yeosu_image4">http://www.aquazium.co.kr/resource/img/contents/gallery_yeosu5.png</item>
+        <item name="Yeosu_URL">http://www.aquaplanet.co.kr/yeosu/index.jsp</item>
+    </string-array>
+
+    <string-array name="odongdo">
+        <item name="Suncheonman_name">오동도</item>
+        <item name="odongdo_intro">멀리서 보면 섬의 모양이 오동잎처럼 보이고, 옛날에는 오동나무가 유난히 많아 오동도라 불리게 되었다고 한다. 현재는 곳곳에 이 섬의 명물인 동백나무와 이대를 비롯하여 참식나무·후박나무·팽나무·쥐똥나무 등 193종의 희귀 수목이 울창한 숲을 이루고 있어 ‘동백섬’ 또는 ‘바다의 꽃섬’으로 불리기도 한다.</item>
+        <item name="odongdo_addr">전라남도 여수시 오동도로 222</item>
+        <item name="odongdo_time">항시개방</item>
+        <item name="odongdo_pay">무료</item>
+        <item name="odongdo_phone">061-659-3877</item>
+        <item name="odongdo_image1">http://namdostory.com/data/item/yeosu13_1/132.jpg</item>
+        <item name="odongdo_image2">http://namdostory.com/data/item/yeosu13_1/133.JPG</item>
+        <item name="odongdo_image3">http://namdostory.com/data/item/yeosu13_1/136.jpg</item>
+        <item name="odongdo_image4">http://namdostory.com/data/item/yeosu13_1/137.JPG</item>
+        <item name="odongdo_URL">http://tour.yeosu.go.kr/tour/travel/10tour/odongdo</item>
+    </string-array>
+
+    <string-array name="chnam">
+        <item name="Suncheonman_name">청남대</item>
+        <item name="chnam_intro">충청북도 청원군 대청댐 부근 약 55만 평에 지은 대통령 전용 별장으로 남쪽에 있는 청와대라는 의미이다. 2003년 4월 18일 청남대는 20여 년간의 베일을 벗고 일반인에게 전면 개방되었다.</item>
+        <item name="chnam_addr">충청북도 청주시 상당구 문의면 청남대길 646 청남대관리사업소 </item>
+        <item name="chnam_time">매일 09:00 - 18:00</item>
+        <item name="chnam_pay">성인 : 5000원</item>
+        <item name="chnam_phone">043-220-6412</item>
+        <item name="chnam_image1">http://chnam.chungbuk.go.kr/upload/brd/9/%EB%8C%80%ED%86%B5%EB%A0%B9%EA%B8%B0%EB%85%90%EA%B4%80,%EC%96%91%EC%96%B4%EC%9E%A5%ED%83%9C%EA%B7%B9%EA%B8%B0%20(3).JPG</item>
+        <item name="chnam_image2">http://chnam.chungbuk.go.kr/upload/brd/9/1461406665691.jpg</item>
+        <item name="chnam_image3">http://chnam.chungbuk.go.kr/upload/brd/9/37.JPG</item>
+        <item name="chnam_image4">http://chnam.chungbuk.go.kr/upload/brd/9/20180519_210000.jpg</item>
+        <item name="chnam_URL">http://chnam.chungbuk.go.kr/home/main.do</item>
+    </string-array>
+
+    <string-array name="gosucave">
+        <item name="Suncheonman_name">고수동굴</item>
+        <item name="gosucave_intro">정식명칭은 단양 고수리 동굴이며, 1976년 9월 1일 천연기념물 제256호로 지정되었다. 규모는 주굴 길이 600m, 지굴 길이 700m, 총연장 1,300m, 수직 높이 5m이다. 단양역에서 북동쪽 9.5km 지점의 남한강 좌안, 금곡천(金谷川)과의 합류지점에서 500m 거리의 등우산(燈郵山) 서쪽 기슭에 입구가 있다.</item>
+        <item name="gosucave_addr">충청북도 단양군 단양읍 고수동굴길 8 고수동굴관리사무소</item>
+        <item name="gosucave_time">매일 09:00 - 17:30</item>
+        <item name="gosucave_pay">성인 : 11000원</item>
+        <item name="gosucave_phone">043-422-3072</item>
+        <item name="gosucave_image1">https://tour.dy21.net/_upload/kntools/kneditor/%EA%B3%A0%EC%88%9803.png</item>
+        <item name="gosucave_image2">https://tour.dy21.net/_upload/kntools/kneditor/%EA%B3%A0%EC%88%98%EB%8F%99%EA%B5%B404.png</item>
+        <item name="gosucave_image3">http://www.k-heritage.tv/DataFolder/Upload/Editor/2013110125738_816545641.jpg</item>
+        <item name="gosucave_image4">http://www.k-heritage.tv/DataFolder/Upload/Editor/2013110125927_816545641.jpg</item>
+        <item name="gosucave_URL">http://www.gosucave.co.kr/</item>
+    </string-array>
+
+    <string-array name="beopjusa">
+        <item name="Suncheonman_name">법주사</item>
+        <item name="beopjusa_intro">법이 안주할 수 있는 탈속의 절이라 하여 법주사라는 명칭이 붙여졌다고 한다.</item>
+        <item name="beopjusa_addr">충청북도 보은군 속리산면 법주사로 405</item>
+        <item name="beopjusa_time">상시개방</item>
+        <item name="beopjusa_pay">성인 : 4000원</item>
+        <item name="beopjusa_phone">043-543-3615</item>
+        <item name="beopjusa_image1">http://postfiles3.naver.net/MjAxODAxMDRfMTkx/MDAxNTE1MDE5NjAzMTYy.xCwDBq6W0nWax1X0hYrBlTEDRSYbXAmqsy6ri100bMIg.0Zu0NplUxZpyk4xkED3gkg2W3zBi33JBDVkgEWZ9-LAg.JPEG.mmm7962/DSC00318.jpg?type=w966</item>
+        <item name="beopjusa_image2">http://postfiles11.naver.net/MjAxODAxMDRfMTE3/MDAxNTE1MDE5NjAwOTI1.AkCNRzqZFhOnaFnUxb4x9Y7VWAFHgkF1QTn0P9IVrSUg.zJ6At5r0VXgm3q2le1vciFpqdsRqDvqDMOi2mhGgYksg.JPEG.mmm7962/DSC00321.jpg?type=w966</item>
+        <item name="beopjusa_image3">http://postfiles3.naver.net/MjAxODAxMDRfMjAw/MDAxNTE1MDE5NjAxODk0.qUTan_whsMVDqdIbJnSECFsl5QvZYAaAPVwSxqHh0gUg.CwVyydoYIYt-DoYAQGMXAF-GxPasKyz9Aw6ASUcc4tgg.JPEG.mmm7962/DSC00324.jpg?type=w966</item>
+        <item name="beopjusa_image4">http://postfiles10.naver.net/MjAxODAxMDRfMjkg/MDAxNTE1MDE5NjA2MTQ1.yHDTyURoyj51G_33K5oAQxo9OihlzJQ4Fz7lHDZTkeUg.UOqDhIm1BGfcX2gIumguwEK-6QzgFZjUPID2Yo8xQ6Ag.JPEG.mmm7962/DSC00335.jpg?type=w966</item>
+        <item name="beopjusa_URL">http://beopjusa.org/index.php</item>
+    </string-array>
+
+    <string-array name="ganjeolgot">
+        <item name="ganjeolgot_name">간절곶</item>
+        <item name="ganjeolgot_intro">동해안에서 맨 먼저 떠오르는 해를 볼수 있는 곳으로 알려져 있다. 영일만의 호미곶보다 1분 빠르게, 강릉의 정동진보다도 5분빨리 해돋이가 시작된다.</item>
+        <item name="ganjeolgot_addr">울산광역시 울주군 서생면 대송리</item>
+        <item name="ganjeolgot_time">상시개방</item>
+        <item name="ganjeolgot_pay">무료</item>
+        <item name="ganjeolgot_phone">052-229-7000</item>
+        <item name="ganjeolgot_image1">http://tong.visitkorea.or.kr/cms/resource/44/2364244_image2_1.jpg</item>
+        <item name="ganjeolgot_image2">http://tong.visitkorea.or.kr/cms/resource/57/1804957_image2_1.jpg</item>
+        <item name="ganjeolgot_image3">http://tong.visitkorea.or.kr/cms/resource/63/1754563_image2_1.jpg</item>
+        <item name="ganjeolgot_image4">http://tong.visitkorea.or.kr/cms/resource/59/681559_image2_1.jpg</item>
+        <item name="ganjeolgot_URL">X</item>
+    </string-array>
+
+
+    <string-array name="ChinaTown">
+        <item name="ChinaTown_name">차이나타운</item>
+        <item name="ChinaTown_intro">인천 중구에서만 볼 수 있는 중국 문화와 음식을 느낄 수 있는 장소</item>
+        <item name="ChinaTown_addr">인천광역시 중구 차이나타운로59번길 12</item>
+        <item name="ChinaTown_time">00:00 ~ 24:00</item>
+        <item name="ChinaTown_pay">무료</item>
+        <item name="ChinaTown_phone">032-760-7537</item>
+        <item name="ChinaTown_image1">https://www.crezone.net/wp-content/uploads/2014/12/%EC%B0%A8%EC%9D%B4%EB%82%98.png</item>
+        <item name="ChinaTown_image2">http://cfile5.uf.tistory.com/image/226AA24D5493DDF9244CD5</item>
+        <item name="ChinaTown_image3">https://www.crezone.net/wp-content/uploads/2017/03/%EC%9D%B8%EC%B2%9C-%EC%B0%A8%EC%9D%B4%EB%82%98-%ED%83%80%EC%9A%B4.jpg</item>
+        <item name="ChinaTown_image4">http://www.ichinatown.or.kr/upfiles/view_img/IMG_3377_1.jpg</item>
+        <item name="ChinaTown_URL">http://www.ichinatown.or.kr/</item>
+    </string-array>
+
+    <string-array name="FairtaleVillag">
+        <item name="FairtaleVillag_name">동화마을</item>
+        <item name="FairtaleVillag_intro">도시 한 복판에 있는 동화책에 나올법한 도화들이 곳곳에 그려져있고 신비로운 분위기를 가진동네</item>
+        <item name="FairtaleVillag_addr">인천광역시 중구 자유공원서로37번길 22 동화마을 주민공동이용시설</item>
+        <item name="FairtaleVillag_time">00:00 ~ 24:00</item>
+        <item name="FairtaleVillag_pay">무료</item>
+        <item name="FairtaleVillag_phone">032-764-7494</item>
+        <item name="FairtaleVillag_image1">https://m.visitkorea.or.kr/image/view/44/1933044_image2_1.jpg</item>
+        <item name="FairtaleVillag_image2">http://ttcfd.hanatour.com/@cms_800x530/2017022260/gjfei2/%EC%9D%B8%EC%B2%9C%EC%A4%91%EA%B5%AC_%EC%86%A1%EC%9B%94%EB%8F%99%EB%8F%99%ED%99%94%EB%A7%88%EC%9D%84_TTB(23).JPG</item>
+        <item name="FairtaleVillag_image3">http://www.kyeongin.com/mnt/file/201403/836791_399160_4958.jpeg</item>
+        <item name="FairtaleVillag_image4">http://cfile22.uf.tistory.com/image/251A873453B4D78D25E6B4</item>
+        <item name="FairtaleVillag_URL">http://www.fairtalevillag.co.kr/</item>
+    </string-array>
+
+    <string-array name="Bomunsa">
+        <item name="Bomunsa_name">보문사</item>
+        <item name="Bomunsa_intro">아름다운 경치를 가지고 있는 우리나라 3대 관음성지로 꼽히는 사찰이다. 관음성지는 '관세음보살님이 상주하는 성스러운 곳' 이라는 뜻을 가지고 있다</item>
+        <item name="Bomunsa_addr">417-910 인천시 강화군 삼산면 삼산남로 828번길 44 보문사</item>
+        <item name="Bomunsa_time">하절기  07:00 - 19:00, 동절기  07:00 - 18:00</item>
+        <item name="Bomunsa_pay">성인 입장료 2,000원, 중,고생 1,500원, 초등학생 1,000원</item>
+        <item name="Bomunsa_phone">032-933-8271</item>
+        <item name="Bomunsa_image1">http://cfile6.uf.tistory.com/image/2509424A51FB56F021668F</item>
+        <item name="Bomunsa_image2">http://cfile3.uf.tistory.com/image/2309424A51FB56F22400A0</item>
+        <item name="Bomunsa_image3">http://image.chosun.com/sitedata/image/201509/25/2015092502426_0.jpg</item>
+        <item name="Bomunsa_image4">http://www.ibulgyo.com/news/photo/201104/87150_23873.jpg</item>
+        <item name="Bomunsa_URL">http://www.bomunsa.me/</item>
+    </string-array>
+
+    <string-array name="DaeguForestry">
+        <item name="DaeguForestry_name">대구수목원</item>
+        <item name="DaeguForestry_intro">쓰레기 매립장을 생태적 식물공간으로 복원하여 시민들의 자연탐구와 식물 학습공간으로 이용하고, 향토 식물자원 보전 및 종의 다양성을 확보하는 기지로 제공하고자 조성한 수목원</item>
+        <item name="DaeguForestry_addr">대구 달서구 화암로 342 대구수목원관리사무소</item>
+        <item name="DaeguForestry_time">매일 08:00 - 19:00</item>
+        <item name="DaeguForestry_pay">무료</item>
+        <item name="DaeguForestry_phone">053-803-7270</item>
+        <item name="DaeguForestry_image1">http://cfile3.uf.tistory.com/image/26179A4752F9A0C30BB9FB</item>
+        <item name="DaeguForestry_image2">http://tong.visitkorea.or.kr/cms/resource/62/1749962_image2_1.jpg</item>
+        <item name="DaeguForestry_image3">https://i.ytimg.com/vi/woDgy1VSfSg/maxresdefault.jpg</item>
+        <item name="DaeguForestry_image4">http://img.yonhapnews.co.kr/etc/inner/KR/2016/10/26/AKR20161026164700053_01_i.jpg</item>
+        <item name="DaeguForestry_URL">http://www.daegu.go.kr/Forestry/</item>
+    </string-array>
+
+    <string-array name="KimKwangSeokRoad">
+        <item name="KimKwangSeokRoad_name">김광석길</item>
+        <item name="KimKwangSeokRoad_intro">한국의 대표가수 故김광석이 자란 거리로 그의 흔적을 느낄 수 있는 장소</item>
+        <item name="KimKwangSeokRoad_addr">대구광역시 중구 대봉동</item>
+        <item name="KimKwangSeokRoad_time">00:00 ~ 24:00</item>
+        <item name="KimKwangSeokRoad_pay">무료</item>
+        <item name="KimKwangSeokRoad_phone">000-0000-0000</item>
+        <item name="KimKwangSeokRoad_image1">http://tong.visitkorea.or.kr/cms/resource/12/1830012_image2_1.jpg</item>
+        <item name="KimKwangSeokRoad_image2">http://tong.visitkorea.or.kr/cms/resource/30/1830030_image2_1.jpg</item>
+        <item name="KimKwangSeokRoad_image3">http://news20.busan.com/content/image/2017/06/07/20170607000246_0.jpg</item>
+        <item name="KimKwangSeokRoad_image4">http://cfile6.uf.tistory.com/image/220FF93A581B4AE307CDB8</item>
+        <item name="KimKwangSeokRoad_URL">https://www.kimkwangseok.or.kr/</item>
+    </string-array>
+
+    <string-array name="Hillcrest">
+        <item name="Hillcrest_name">힐크레스트</item>
+        <item name="Hillcrest_intro">3,000여평의 대규모 허브정원과 함께 풍성한 테마가든을 조성하여 사계절 아름다운 장소이다.</item>
+        <item name="Hillcrest_addr">대구 달성군 가창면 가창로 1003</item>
+        <item name="Hillcrest_time">평일 10:00 - 18:00, 주말 10:00 - 19:00</item>
+        <item name="Hillcrest_pay">2000원~</item>
+        <item name="Hillcrest_phone">053-767-6300</item>
+        <item name="Hillcrest_image1">http://tong.visitkorea.or.kr/cms/resource/70/1144570_image2_1.jpg</item>
+        <item name="Hillcrest_image2">http://kch.secret-tour.com/sub5/image/sub05_bg.jpg</item>
+        <item name="Hillcrest_image3">https://www.crezone.net/wp-content/uploads/2010/06/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7-2015-05-22-%EC%98%A4%EC%A0%84-9.30.10.png</item>
+        <item name="Hillcrest_image4">https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRP4zWFtDFRZHHxtcLc3iGbAXTtEyPExY5CiuwqjOtN48aSW1UG</item>
+        <item name="Hillcrest_URL">http://hillcrest.co.kr/</item>
+    </string-array>
+
+    <string-array name="Taejongdae">
+        <item name="Taejongdae_name">태종대</item>
+        <item name="Taejongdae_intro">영도의 남동쪽 끝에 위치하는 해발고도 200m 이하의 구릉지역으로, 부산 일대에서 보기 드문 울창한 숲과 기암 괴석으로 된 해식절벽 및 푸른 바다 등이 조화를 이루는 곳이다.</item>
+        <item name="Taejongdae_addr">부산 영도구 전망로 24 태종대유원지</item>
+        <item name="Taejongdae_time">매일 04:00 - 24:00하절기(3월~10월), 매일 05:00 - 24:00동절기(11월~2월)</item>
+        <item name="Taejongdae_pay">어른: 3000원, 청소년: 2000원, 어린이: 1500원</item>
+        <item name="Taejongdae_phone">051-405-8745</item>
+        <item name="Taejongdae_image1">http://cfile10.uf.tistory.com/image/2174FA3E5375911D128AC6</item>
+        <item name="Taejongdae_image2">http://cfile10.uf.tistory.com/original/2247284E50FCA16901BAFE</item>
+        <item name="Taejongdae_image3">https://t1.daumcdn.net/thumb/R1280x0/?fname=http://t1.daumcdn.net/brunch/service/user/4dit/image/mQOGaNiWVi0R2zm1uvnMC15S3Nw</item>
+        <item name="Taejongdae_image4">https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOOtin9I0JA4h6Irm6G0EKEXDqvWQp17bot-c_h7DJX2mxw5ZOCA</item>
+        <item name="Taejongdae_URL">http://taejongdae.bisco.or.kr/</item>
+    </string-array>
+
+    <string-array name="Haeundae">
+        <item name="Haeundae_name">해운대해수욕장</item>
+        <item name="Haeundae_intro">대한민국 대표이자 부산 대표인 해수욕장으로 매년 여름이면 많은 사람이 모이는 광활하고 아름다운 해수욕장이다.</item>
+        <item name="Haeundae_addr">부산 해운대구 달맞이길62번길 47 미포활어회센타</item>
+        <item name="Haeundae_time">00:00 ~ 24:00</item>
+        <item name="Haeundae_pay">무료</item>
+        <item name="Haeundae_phone">051-749-7614</item>
+        <item name="Haeundae_image1">https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Haeundae_Beach_in_Busan.jpg/1200px-Haeundae_Beach_in_Busan.jpg</item>
+        <item name="Haeundae_image2">https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXEuDBdPUYy7Sbds5lBqeFIIeXIKwxyMTj-0KeqBOQZO18qgbG</item>
+        <item name="Haeundae_image3">https://thumbnails.trvl-media.com/kX2BJD_82CsrjcjyMp5ic0uIiKE=/768x432/images.trvl-media.com/media/content/shared/images/travelguides/destination/602043/Haeundae-Beach-247182.jpg</item>
+        <item name="Haeundae_image4">https://static.wixstatic.com/media/182d93_73fecfc86e9b49349361ab9701f760dc.png/v1/fill/w_784,h_523,al_c,usm_0.66_1.00_0.01/182d93_73fecfc86e9b49349361ab9701f760dc.png</item>
+        <item name="Haeundae_URL">http://sunnfun.haeundae.go.kr/</item>
+    </string-array>
+
+    <string-array name="Gamcheon">
+        <item name="Gamcheon_name">감천문화마을</item>
+        <item name="Gamcheon_intro">아름다운 경치와 알록달록한 집들이 이쁜 부산에만 존재하는 마을</item>
+        <item name="Gamcheon_addr">부산광역시 사하구 감내2로 203 감천문화마을안내센터</item>
+        <item name="Gamcheon_time">매일09:00~18:00 3월-10월 시설물개방시가, 매일09:00~17:00 11월-2월 시설물개방시가</item>
+        <item name="Gamcheon_pay">무료</item>
+        <item name="Gamcheon_phone">051-204-1444</item>
+        <item name="Gamcheon_image1">https://i.pinimg.com/originals/89/cb/39/89cb396c1f5253f68119ee87b247de01.jpg</item>
+        <item name="Gamcheon_image2">https://cdn.crowdpic.net/detail-thumb/thumb_d_57D315D125F8A24C75D302A44D98F0AE.jpg</item>
+        <item name="Gamcheon_image3">http://img.ezmember.co.kr/cache/board/2013/03/13/f29c79873e942a05f17c8c1010a76af3.jpg</item>
+        <item name="Gamcheon_image4">http://www.bulgungnews.com/news/photo/201612/510681_29049_1816.jpg</item>
+        <item name="Gamcheon_URL">http://www.gamcheon.or.kr/</item>
+    </string-array>
+
+    <string-array name="Park518">
+        <item name="Park518_name">5.18기념공원</item>
+        <item name="Park518_intro"> 민주주의의 실현을 요구하며 전개한 민중항쟁 5·18자료실과 공연·행사시설을 갖춘 5·18기념문화관, 시민군조각상·추모공간 등으로 구성된 공원이다.</item>
+        <item name="Park518_addr">광주 서구 상무민주로 61 광주학생교육문화회관</item>
+        <item name="Park518_time">00:00 ~ 24:00</item>
+        <item name="Park518_pay">무료</item>
+        <item name="Park518_phone">062-376-5197</item>
+        <item name="Park518_image1">https://pbs.twimg.com/media/C7LMX43VoAAi73U.jpg</item>
+        <item name="Park518_image2">http://cfile21.uf.tistory.com/image/2568D734548553F61B2CE6</item>
+        <item name="Park518_image3">http://tong.visitkorea.or.kr/cms/resource/31/1559431_image2_1.jpg</item>
+        <item name="Park518_image4">http://cfile21.uf.tistory.com/image/153224124CAE8AA98F2966</item>
+        <item name="Park518_URL">http://518center.gwangju.go.kr/</item>
+    </string-array>
+
+    <string-array name="UchiPark">
+        <item name="UchiPark_name">우치공원 동물원</item>
+        <item name="UchiPark_intro">전 세계 다양한 동물들이 가득한 광주에 있는 동물원</item>
+        <item name="UchiPark_addr">광주 북구 우치로 677 우치공원 금호패밀리랜드</item>
+        <item name="UchiPark_time">매일 09:00 - 18:00(연중무휴)</item>
+        <item name="UchiPark_pay">무료</item>
+        <item name="UchiPark_phone">062-613-5860</item>
+        <item name="UchiPark_image1">http://img.yonhapnews.co.kr/etc/inner/KR/2017/02/27/AKR20170227061400054_01_i.jpg</item>
+        <item name="UchiPark_image2">https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQqvhEno1mFdDd2QHYwe_4u-cTmh-iaVTufJUmcC7alD9dzbzFSQw</item>
+        <item name="UchiPark_image3">https://tour.gwangju.go.kr/uploads/editor/user/2016/11/201611160217477000.jpg</item>
+        <item name="UchiPark_image4">http://www.doopedia.co.kr/_upload/comm/travelkorea/200608/08/400_1155018558180.jpg</item>
+        <item name="UchiPark_URL">http://uchipark.gwangju.go.kr/contentsView.do?menuId=uchipark0201000000</item>
+    </string-array>
+
+    <string-array name="MudeungMountain">
+        <item name="MudeungMountain_name">무등산</item>
+        <item name="MudeungMountain_intro">북쪽은 나주평야, 남쪽은 남령산지의 경계에 있으며 산세가 웅대한 석산이다.</item>
+        <item name="MudeungMountain_addr">광주 동구 지산동</item>
+        <item name="MudeungMountain_time">00:00 ~ 24:00</item>
+        <item name="MudeungMountain_pay">무료</item>
+        <item name="MudeungMountain_phone">062-227-1187</item>
+        <item name="MudeungMountain_image1">http://cfile29.uf.tistory.com/image/026AFC4D51DB741108E255</item>
+        <item name="MudeungMountain_image2">http://cfile25.uf.tistory.com/image/207C03364FF97A2604B382</item>
+        <item name="MudeungMountain_image3">http://www.gokorea.kr/news/photo/201801/37167_51366_5231.jpg</item>
+        <item name="MudeungMountain_image4">http://cfile23.uf.tistory.com/image/24137E3B571FED4F2239C6</item>
+        <item name="MudeungMountain_URL">http://mudeung.knps.or.kr/front/portal/visit/visitCourseMain.do?parkId=122000</item>
+    </string-array>
+
+    <string-array name="Seopjikoji">
+        <item name="Seopjikoji_name">섭지코지</item>
+        <item name="Seopjikoji_intro">신양해수욕장에서 2㎞에 걸쳐 바다를 향해 길게 뻗어 있고 아름다운 경치가 일품인 장소이다.</item>
+        <item name="Seopjikoji_addr">제주 서귀포시 성산읍 고성리</item>
+        <item name="Seopjikoji_time">00:00 ~ 24:00</item>
+        <item name="Seopjikoji_pay">무료</item>
+        <item name="Seopjikoji_phone">064-782-2810</item>
+        <item name="Seopjikoji_image1">http://tong.visitkorea.or.kr/cms/resource/83/2513483_image2_1.jpg</item>
+        <item name="Seopjikoji_image2">http://www.ttearth.com/world/asia/korea/jeju/img/seopjikoji/seopjikoji07.jpg</item>
+        <item name="Seopjikoji_image3">https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-jkGfCmAKhIretqnKoqDHJH2IYRjyje1V0rMZXoI9ju8rgkuW</item>
+        <item name="Seopjikoji_image4">https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRSaUpJWzz2VJH1LQs2q13qeHub59w0CYFU1Lf4Om_FGjPdNu3_Sw</item>
+        <item name="Seopjikoji_URL">http://korean.visitkorea.or.kr/kor/bz15/where/where_tour.jsp?cid=127813</item>
+    </string-array>
+
+    <string-array name="Cheonjiyeon">
+        <item name="Cheonjiyeon_name">천지연 폭포</item>
+        <item name="Cheonjiyeon_intro">길이 22m, 너비 12m(물이 많을 때), 못의 깊이 20m. 조면질(粗面質) 안산암으로 이루어진 기암 절벽에서 세찬 옥수가 떨어지는 경승지이다.</item>
+        <item name="Cheonjiyeon_addr">제주 서귀포시 천지동 667-7</item>
+        <item name="Cheonjiyeon_time">00:00 ~ 24:00</item>
+        <item name="Cheonjiyeon_pay">일반 2000원, 청소년,군경 1,000원</item>
+        <item name="Cheonjiyeon_phone">064-733-1528</item>
+        <item name="Cheonjiyeon_image1">https://i.ytimg.com/vi/7ijddONIZrE/maxresdefault.jpg</item>
+        <item name="Cheonjiyeon_image2">http://www.jejusea.com/tourplace/upload/chunzi1.jpg</item>
+        <item name="Cheonjiyeon_image3">https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSK85nbFUgOY-xEbgcJfo5VbOxiWt3COd1Em-zPp-EEsMeh5iHD-Q</item>
+        <item name="Cheonjiyeon_image4">https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAgGObt3gUpsNCgVts0fpuIUiOa6oCbFCuueK7vL_qgzefTfpS</item>
+        <item name="Cheonjiyeon_URL">http://korean.visitkorea.or.kr/kor/bz15/where/where_tour.jsp?cid=126438</item>
+    </string-array>
+
+    <string-array name="Seongsan">
+        <item name="Seongsan_name">성산일출봉</item>
+        <item name="Seongsan_intro">3면이 깎아지른 듯한 해식애를 이루며, 분화구 위는 99개의 바위 봉우리가 빙 둘러 서 있다. 그 모습이 거대한 성과 같다 하여 성산이라 하며, 해돋이가 유명하여 일출봉이라고 한다.</item>
+        <item name="Seongsan_addr">제주 서귀포시 성산읍 일출로 284-12</item>
+        <item name="Seongsan_time">매일 07:00 - 20:00</item>
+        <item name="Seongsan_pay">일반 2000원, 청소년,군경 1,000원</item>
+        <item name="Seongsan_phone">064-783-0959</item>
+        <item name="Seongsan_image1">http://img.hani.co.kr/imgdb/resize/2018/0228/00502094_20180228.JPG</item>
+        <item name="Seongsan_image2">https://upload.wikimedia.org/wikipedia/commons/7/78/%EC%84%B1%EC%82%B0%EC%9D%BC%EC%B6%9C%EB%B4%89_%EB%93%B1%EC%82%B0%EB%A1%9C2.jpg</item>
+        <item name="Seongsan_image3">https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdGb0nvy2YFnyzEGbC2zOrO5U1LaZSVqR7XWf-2arj1OzrTFTlKw</item>
+        <item name="Seongsan_image4">http://cfile229.uf.daum.net/image/2030C9435064F28E144686</item>
+        <item name="Seongsan_URL">http://korean.visitkorea.or.kr/kor/bz15/where/where_tour.jsp?cid=126435</item>
+    </string-array>
+
+    <string-array name="Jangho">
+        <item name="Jangho_name">장호항</item>
+        <item name="Jangho_intro">해안선이 절경인 동양의 나폴리.장호리의 옛 명칭은 장오리였다.마을의 지형이 수컷 오리인 장오리를 닮았다고 해서 그렇게 불리다가 지금의 장호리로 바뀌었다.장호항은 1971년에 국가어항으로 지정됐다.1973년에는 기본시설계획이 수립되었고, 정비계획은 1993년에 수립되어 1999년에 방파제 및 호안 공사가 시행되었다.</item>
+        <item name="Jangho_addr">강원 삼척시 근덕면 장호리</item>
+        <item name="Jangho_time">상시개방</item>
+        <item name="Jangho_pay">무료</item>
+        <item name="Jangho_phone">X</item>
+        <item name="Jangho_image1">http://cafefiles.naver.net/MjAxNzA5MjhfMjQ0/MDAxNTA2NTUxOTI1MTMw.ZTcYMvcdQTcSUebasGcV3NwmQln1y8lEMjGDBuM9B3Mg.oBeZ0gup4FWkFGi_8pRXqQttyZ9og_KZdIc971RbWEog.JPEG.cmjpss4048/IMG_2197.JPG</item>
+        <item name="Jangho_image2">http://cafefiles.naver.net/data31/2008/5/15/245/%BB%EF%C3%B4_%C0%E5%C8%A3%C7%D7-_joguk21.jpg</item>
+        <item name="Jangho_image3">http://cafefiles.naver.net/MjAxNzA5MjhfMTc0/MDAxNTA2NTUxOTI1ODkz.czldnPdvY4UVGxv3uK0y7jtRXah7UDPWXNEuzHSPwcsg.BQAafOWoBPjGuN-FAX8wfsjhZq3POj6VHmXFYb7ZSecg.JPEG.cmjpss4048/IMG_2202.JPG</item>
+        <item name="Jangho_image4">http://cafefiles.naver.net/20160615_46/dragon4696_14659538600411C59i_JPEG/1.jpg</item>
+        <item name="Jangho_URL">X</item>
+    </string-array>
+
+    <string-array name="Jeongdongjin">
+        <item name="Jeongdongjin_name">정동진</item>
+        <item name="Jeongdongjin_intro">우리나라에서 해가 가장 빨리 뜨는 곳으로 유명하다.</item>
+        <item name="Jeongdongjin_addr">강원도 강릉시 강동면 정동진리 정동진해변</item>
+        <item name="Jeongdongjin_time">항시 이용가능</item>
+        <item name="Jeongdongjin_pay">무료</item>
+        <item name="Jeongdongjin_phone">033-660-3598</item>
+        <item name="Jeongdongjin_image1">http://post.phinf.naver.net/20151005_164/lalala6020_1444027236134i2sTV_JPEG/mug_obj_144402723597435605.jpg</item>
+        <item name="Jeongdongjin_image2">http://blogfiles5.naver.net/20111006_230/jwheo_1317900949530EdJ6X_JPEG/IMG_9026-2s.jpg</item>
+        <item name="Jeongdongjin_image3">http://thumb.photo.naver.net/exphoto02/2010/12/31/200/_mg_5280_anangel7979.jpg</item>
+        <item name="Jeongdongjin_image4">http://post.phinf.naver.net/20151223_184/agioid_1450848175079wBmgC_PNG/mug_obj_201512231422554589.jpg</item>
+        <item name="Gapyeong_URL">X</item>
+    </string-array>
+
+
+    <string-array name="Daegwallyeong">
+        <item name="Daegwallyeong_name">하늘목장</item>
+        <item name="Daegwallyeong_intro">바쁜 일상생활을 떠나 귀여운 양들에게 먹이를 주며 여유를 즐길 수 있는 공간이다.</item>
+        <item name="Daegwallyeong_addr">강원 평창군 대관령면 꽃밭양지길 458-23</item>
+        <item name="Daegwallyeong_time">4월~9월 09:00~18:00 / 10~3월 09:00~17:30</item>
+        <item name="Daegwallyeong_pay">대인: 6000원</item>
+        <item name="Daegwallyeong_phone">033-332-8061</item>
+        <item name="Daegwallyeong_image1">http://blogfiles5.naver.net/MjAxNzA3MjdfNDUg/MDAxNTAxMTE2NTA3MTQ3.8Li4lM0SgyJxyoL9db4js9960oe9-x-e_tt6iq5ZRI4g.sg9JMMY6nlOglY8Ulhq_Jv07w8n5wUT_pAbmNf6Nu2kg.JPEG.333goo/%B4%EB%B0%FC%B7%C9_%C7%CF%B4%C3%B8%F1%C0%E5__%288%29.JPG</item>
+        <item name="Daegwallyeong_image2">https://dbscthumb-phinf.pstatic.net/2472_000_1/20160614123308868_MMWNF4HYU.jpg/RSM_0343.jpg?type=m4500_4500_fst_n</item>
+        <item name="Daegwallyeong_image3">http://blogfiles5.naver.net/20151102_141/designrace_14464378231425qFhB_JPEG/DSC_1644.jpg</item>
+        <item name="Daegwallyeong_image4">http://post.phinf.naver.net/MjAxODAxMDJfMyAg/MDAxNTE0ODgzMDk1Mjk5.Ld7w2YDVeIWNbT5RsLmShhciFaE72Rd5mzmfTxWLqXIg.i-QQMG4rD5qnbOCQmnPysWgVhVptW3HOxCJuLGUSfXYg.JPEG/I5RJba1Mx43mZci3RR-fp8AbBQY0.jpg</item>
+        <item name="Daegwallyeong_URL">http://skyranch.co.kr/kr/</item>
+    </string-array>
+
+
+    <string-array name="Anseong">
+        <item name="Anseong_name">안성팜랜드</item>
+        <item name="Anseong_intro">가족 또는 연인과 함께할 수 있는 곳으로 승마체험 등 이색적인 체험을 할 수 있다.</item>
+        <item name="Anseong_addr">경기도 안성시 공도읍 대신두길 28</item>
+        <item name="Anseong_time">2월~11월 10:00~18:00/12월~1월 10:00~17:00</item>
+        <item name="Anseong_pay">대인: 12000원</item>
+        <item name="Anseong_phone">031-805-37979</item>
+        <item name="Anseong_image1">http://cafefiles.naver.net/20160522_129/skdng_1463914229076iUEH6_JPEG/%BE%C8%BC%BA_%C6%CA%B7%A3%B5%E5_1.jpg</item>
+        <item name="Anseong_image2">http://blogfiles5.naver.net/20130812_120/tangkong16_1376293672885IS8xX_JPEG/%BE%C8%BC%BA%C6%CA%B7%A3%B5%E5IMG_5797.JPG</item>
+        <item name="Anseong_image3">http://imgnews.naver.com/image/5165/2016/04/14/1161139_1066843_1310_99_20160414212855.jpg</item>
+        <item name="Anseong_image4">http://cafefiles.naver.net/20160523_197/crt120_1463993412394eKxg0_JPEG/%BE%C8%BC%BA%C6%CA%B7%A3%B5%E550.jpg</item>
+        <item name="Anseong_URL">http://nhasfarmland.com/new/farm/farm01.php</item>
+    </string-array>
+
+    <string-array name="Paju">
+        <item name="Paju_name">프로방스</item>
+        <item name="Paju_intro">이국적인 건물들과 분위기를 느낄 수 있으며 특히 밤이 되면 불이 켜지는데 불이 켜지면 더 아름답다. 밤에 가는 것을 권유한다.</item>
+        <item name="Paju_addr">경기 파주시 탄현면 새오리로 69 프로방스</item>
+        <item name="Paju_time">상시 개방</item>
+        <item name="Paju_pay">무료</item>
+        <item name="Paju_phone">031-946-6353</item>
+        <item name="Paju_image1">http://post.phinf.naver.net/MjAxNzEyMjJfMTUw/MDAxNTEzOTEyNDQwNzI0.u6cL8sP1iO0mKoZ6mFhUgD0hMkO9wQ80_Ef-1LFfRpAg.GCr0gyJyBDWCGm3375QYXw4v87l9x1MLwckfREt9lE0g.JPEG/InCnUddvp2GSZWbmnrkAGiNcl9Hg.jpg</item>
+        <item name="Paju_image2">http://cafefiles.naver.net/MjAxNzEyMjZfNzIg/MDAxNTE0MjY3ODcyMTc2.7DT1uxHanYGV0KPoC3h17pJmlp2BUAz1dLfMd-G4QKIg.lRHKC46RsI9UDYvfjyAKKd-s1To6SCqCgtqkI8D12FYg.JPEG.hateyouor/3.jpg</item>
+        <item name="Paju_image3">http://post.phinf.naver.net/20150417_221/heej5765_1429198280647oc7W0_JPEG/mug_obj_201504170031253667.jpg</item>
+        <item name="Paju_image4">http://blogfiles5.naver.net/20130911_35/kimsbeans_1378887889906naglx_JPEG/provence61.jpg</item>
+        <item name="Paju_URL">http://provence.town/</item>
+    </string-array>
+
+
+    <string-array name="Everland">
+        <item name="Everland_name">에버랜드</item>
+        <item name="Everland_intro">재미있는 놀이기구와 동심을 키울 수 있는 사파리와 동물들을 체험할 수 있는 판타지한 놀이동산이다.</item>
+        <item name="Everland_addr">경기 용인시 처인구 포곡읍 에버랜드로 199</item>
+        <item name="Everland_time">10:00~22:00</item>
+        <item name="Everland_pay">대인: 54000원 청소년: 46000원</item>
+        <item name="Everland_phone">031-320-5000</item>
+        <item name="Everland_image1">http://thumb.photo.naver.net/exphoto02/2008/8/7/209/img_0256-1_han797.jpg</item>
+        <item name="Everland_image2">http://thumb.photo.naver.net/exphoto02/2008/4/8/156/%BF%A1%B9%F6%B7%A3%B5%E5_webtozon.jpg</item>
+        <item name="Everland_image3">http://post.phinf.naver.net/MjAxODAxMjNfMTI3/MDAxNTE2NjkyMzIwMzE1.Db6HXLhaYnHieecShkQJYYoNW_EdS6honuT615ndzTAg.TsSI1_l7g7YX5Ofhf8JfjkQRthpcVgAnSHn2eBoU8ZYg.JPEG/IBouC4FoWPp8eunFUxP1oz7drr2Q.jpg</item>
+        <item name="Everland_image4">http://blogfiles5.naver.net/20141219_104/oper45454_14189877636769ilcp_JPEG/tumblr_ngmqdinBzS1u3fwl0o3_1280.jpg</item>
+        <item name="Everland_URL">http://www.everland.com/</item>
+    </string-array>
+
+
+    <string-array name="Seokguram">
+        <item name="Seokguram_name">석굴암</item>
+        <item name="Seokguram_intro">유네스코에서 세계문화유산으로 지정하였고, 세계 유일의 인조석굴이다.</item>
+        <item name="Seokguram_addr">경상북도 경주시 불국로 873-243 석굴암</item>
+        <item name="Seokguram_time">06:30~17:30</item>
+        <item name="Seokguram_pay">어른: 5000원</item>
+        <item name="Seokguram_phone">054-746-9933</item>
+        <item name="Seokguram_image1">http://cafefiles.naver.net/20130314_292/mauma0_1363237673485gdE3f_JPEG/2.jpg</item>
+        <item name="Seokguram_image2">http://post.phinf.naver.net/20150515_191/vegadora_1431659567099pyp4l_PNG/mug_obj_201505151212478216.jpg</item>
+        <item name="Seokguram_image3">https://dbscthumb-phinf.pstatic.net/1445_000_2/20121102174824245_ZPAIQT5CV.jpg/ea14_031_i1.jpg?type=m4500_4500_fst</item>
+        <item name="Seokguram_image4">https://dbscthumb-phinf.pstatic.net/2644_000_14/20150330141828884_HKI9V8EDZ.jpg/fc2bf9bb-5198-48.jpg?type=m935_fst_nce</item>
+        <item name="Seokguram_URL">http://www.sukgulam.org/</item>
+    </string-array>
+
+    <string-array name="Andong">
+        <item name="Andong_name">하회마을</item>
+        <item name="Andong_intro">세계문화유산으로 지정되었으며 민속적 전통과 건축물을 잘 보존한 풍산 유씨의 씨족마을이다.</item>
+        <item name="Andong_addr">경상북도 안동시 풍천면 하회리</item>
+        <item name="Andong_time">하절기: 09:00~18:00 동절기: 09:00~17:00</item>
+        <item name="Andong_pay">어른: 4000원</item>
+        <item name="Andong_phone">054-853-0109</item>
+        <item name="Andong_image1">http://post.phinf.naver.net/MjAxNzA0MjhfMjE4/MDAxNDkzMzY2ODA4Mjk2.K89U7TotuLz31YaYUGnuPBTKblsQUn5-7TIrG3VjIwEg.8C3ZTTfqXQCRXPTSNfkucPSdQxfssbENUOzPD0GNyKkg.JPEG/IJe5JHuyPomVvZjKqtxcdCx3mmyk.jpg</item>
+        <item name="Andong_image2">https://dbscthumb-phinf.pstatic.net/3171_000_1/20140623165632462_NP7DDT3FR.jpg/fb48_134_i1.jpg?type=m4500_4500_fst_n</item>
+        <item name="Andong_image3">http://imgnews.naver.com/image/5268/2017/01/13/0000653496_001_20170113085657600.jpg</item>
+        <item name="Andong_image4">http://cafefiles.naver.net/20160904_185/yuh8814_14729985320306X3fr_PNG/IMG_2656.png</item>
+        <item name="Andong_URL">http://www.hahoe.or.kr/</item>
+    </string-array>
+
+
+    <string-array name="Pohang">
+        <item name="Pohang_name">죽도시장</item>
+        <item name="Pohang_intro">포항 최대 규모의 재래시장이고, 다양한 해산물과 먹거리를 먹어볼 수 있다.</item>
+        <item name="Pohang_addr">경상북도 포항시 북구 죽도시장 13길 13-1</item>
+        <item name="Pohang_time">08:00~22:00</item>
+        <item name="Pohang_pay">무료</item>
+        <item name="Pohang_phone">X</item>
+        <item name="Pohang_image1">http://post.phinf.naver.net/MjAxNzEwMjNfMTAw/MDAxNTA4NzI2NDMyMTU0.9TXWn6mPFsg2UQZ47xJes5h8PiNnCEPXy8oodwG0Rxgg.v-qfq7V8YrjPkfAaqNSED6X6dGt4icmqKUBNgypSPIYg.PNG/Iorq3SgvA0uIFdskjiyEXcdPlImY.jpg</item>
+        <item name="Pohang_image2">http://blogfiles5.naver.net/20120220_257/yeul330_13297194326978Dkn2_PNG/%C1%D7%B5%B5%BD%C3%C0%E5.png</item>
+        <item name="Pohang_image3">http://cafefiles.naver.net/20140112_219/bbdd2013_1389538694363nFPrk_JPEG/-139061133.jpg</item>
+        <item name="Pohang_image4">http://post.phinf.naver.net/20150519_45/funky6782_1431997032888WbDLD_JPEG/mug_obj_20150519095714500.jpg</item>
+        <item name="Pohang_URL">X</item>
+    </string-array>
+
+    <string-array name="Oedo">
+        <item name="Oedo_name">외도</item>
+        <item name="Oedo_intro">배를 타고 가면서 주변의 아름다운 풍경을 볼 수 있으며 섬에 도착하면 엄청 큰 수목원 같은 느낌을 주며 멋진 바다 풍경과 함께 어우러져 있는 모습이 장관이다.</item>
+        <item name="Oedo_addr">경상남도 거제시 일운면 외도길 17 외도해상농원</item>
+        <item name="Oedo_time">08:00~19:00</item>
+        <item name="Oedo_pay">일반: 11000원</item>
+        <item name="Oedo_phone">055-681-4541</item>
+        <item name="Oedo_image1">http://cafefiles.naver.net/20120420_160/yjp0427_1334928378588M9ojg_JPEG/IMGP8479.JPG</item>
+        <item name="Oedo_image2">http://blogfiles1.naver.net/data25/2007/3/26/142/yw1_1-fjqntlsdid.jpg</item>
+        <item name="Oedo_image3">http://blogfiles5.naver.net/20110916_85/smilegeoje_1316148399408hcpi7_JPEG/8.jpg</item>
+        <item name="Oedo_image4">http://thumb.photo.naver.net/exphoto01/2010/8/5/253/img_9794_hdr_mod_small_choonlee.jpg</item>
+        <item name="Oedo_URL">http://www.oedobotania.com/</item>
+    </string-array>
+
+    <string-array name="DarangI">
+        <item name="DarangI_name">다랭이 마을</item>
+        <item name="DarangI_intro">일출의 장관이 유명하며 농어촌 체험을 할 수 있어 가족들이 여행하는 곳으로 추천한다.</item>
+        <item name="DarangI_addr">경남 남해군 남면 남면로 679번길 21 다랭이두레방</item>
+        <item name="DarangI_time">상시 개방</item>
+        <item name="DarangI_pay">바다체험: 10000원 </item>
+        <item name="DarangI_phone">010-4590-4642</item>
+        <item name="DarangI_image1">https://dbscthumb-phinf.pstatic.net/2472_000_1/20160609120214011_577S8IR5L.jpg/comd4_5_i7.jpg?type=m4500_4500_fst_n</item>
+        <item name="DarangI_image2">http://blogfiles5.naver.net/20141123_252/ok00124_1416752158818Ue5bM_JPEG/%B4%D9%B7%A9%C0%CC%B8%B6%C0%BB_%B3%B2%C7%D8%B4%D9%B7%A9%C0%CC%B8%B6%C0%BB_%B0%A1%C3%B5%B4%D9%B7%A9%C0%CC%B8%B6_%2815%29.jpg</item>
+        <item name="DarangI_image3">http://cafefiles.naver.net/MjAxNjExMjhfMTI2/MDAxNDgwMzQzMDU3ODMy.3YLQ_DOYD5MLMtCrIVWjb2KjylTKiAGiLSWjHC0_FnEg.o7PPIxNhmUavfymqhuJ-VDsSM9xgBEJSsUfaAWOCKvQg.JPEG.yujunwon/3%B3%B2%C7%D8%B4%D9%B7%A9%C0%CC%B8%B6%C0%BB.jpg</item>
+        <item name="DarangI_image4">http://post.phinf.naver.net/20160928_92/14750643460093CwTq_PNG/IpruVGKwjihOCS3WttDuhwGC10_M.jpg</item>
+        <item name="DarangI_URL">http://darangyi.go2vil.org/</item>
+    </string-array>
+
+
+    <string-array name="Jiri">
+        <item name="Jiri_name">지리산</item>
+        <item name="Jiri_intro">일출의 장관이 유명하며 농어촌 체험을 할 수 있어 가족들이 여행하는 곳으로 추천한다.</item>
+        <item name="Jiri_addr">경남 산청군 시천면</item>
+        <item name="Jiri_time">상시 개방</item>
+        <item name="Jiri_pay">무료</item>
+        <item name="Jiri_phone">055-972-7771</item>
+        <item name="Jiri_image1">https://dbscthumb-phinf.pstatic.net/2472_000_1/20160608163356331_4Y7G0LM77.jpg/com2_i1291.jpg?type=m4500_4500_fst_n</item>
+        <item name="Jiri_image2">http://thumb.photo.naver.net/exphoto01/2010/7/13/15/img_2553-1500_kuryejun.jpg</item>
+        <item name="Jiri_image3">https://dbscthumb-phinf.pstatic.net/2472_000_1/20160608164844497_WYTE490EN.jpg/com2_i1424.jpg?type=m4500_4500_fst_n</item>
+        <item name="Jiri_image4">http://thumb.photo.naver.net/exphoto02/2009/11/12/47/img_7147_w_shimby75.jpg</item>
+        <item name="Jiri_URL">http://www.knps.or.kr/</item>
+    </string-array>
+
+    <string-array name="Hanok">
+        <item name="Hanok_name">한옥마을</item>
+        <item name="Hanok_intro">한옥마을 보존지구로 지정이 되었고, 옛날 한옥들을 볼 수 있으며, 한복을 입고 사진을 찍는 것을 추천한다.</item>
+        <item name="Hanok_addr">전라북도 전주시 완산구 교동</item>
+        <item name="Hanok_time">상시 개방</item>
+        <item name="Hanok_pay">무료</item>
+        <item name="Hanok_phone">063-282-1330</item>
+        <item name="Hanok_image1">http://cafefiles.naver.net/20130110_285/projecta1210_1357799426480okywv_JPEG/898537_image2_1.jpg</item>
+        <item name="Hanok_image2">http://thumb.photo.naver.net/20151130_222/leesk0031_1448853258027H8eND_JPEG/DSC_4645-1.1400.jpg</item>
+        <item name="Hanok_image3">http://thumb.photo.naver.net/exphoto01/2010/3/24/66/dsc_7174_hotsky891.jpg</item>
+        <item name="Hanok_image4">https://post-phinf.pstatic.net/MjAxODAyMjhfMTQ1/MDAxNTE5ODEwMDE5ODM0.npSirsarWSKFdlMgy6M7H_gowena48gYYkkWl04snYwg.nI_3Vb7MHRrpSmkIEeFoj7sQlNFCFhpEAJVOnbQZBjog.JPEG/I5c7wyPXgqITYKudt99uHCm1sN88.jpg</item>
+        <item name="Hanok_URL">X</item>
+    </string-array>
+
+    <string-array name="Imsil">
+        <item name="Imsil_name">치즈마을</item>
+        <item name="Imsil_intro">이탈리아가 치즈가 유명하다면 우리나라는 임실의 치즈가 유명하다. 아이들과 함께 치즈를 체험을 할 수 있는 곳이다.</item>
+        <item name="Imsil_addr">전라북도 임실군 임실읍 치즈마을1길 4 치즈마을</item>
+        <item name="Imsil_time">월요일 휴무</item>
+        <item name="Imsil_pay">피자만들기: 11000원</item>
+        <item name="Imsil_phone">063-643-3700</item>
+        <item name="Imsil_image1">http://post.phinf.naver.net/MjAxNzExMDhfMjQ0/MDAxNTEwMTI3ODcwODMy.qB46T8FryG92ycvjNJc8Tzeu-ffRyJ2rNE430r1-RkAg.h1vkOdt-iYVoYeW3zan5O_eVo7pJ46ZJsUltOWFcxvkg.PNG/Ie4X_lFlASaEk0M1maIiUGkLuc0Y.jpg</item>
+        <item name="Imsil_image2">http://imgnews.naver.com/image/032/2010/01/13/ch.jpg</item>
+        <item name="Imsil_image3">http://post.phinf.naver.net/MjAxNzA3MDRfMjUz/MDAxNDk5MTYyMzA2MDkw._fkAHxLSXkp-WeN_A_Aha47WVHpcwXegKoq2dZLXl6Mg.Sek9IvsgztTiv_4uEAJT8lEQkzXHLP0mxaiP8c9FoHog.JPEG/ISLnh9BCmwNf02d7QNTKD3e8EBrQ.jpg</item>
+        <item name="Imsil_image4">https://dbscthumb-phinf.pstatic.net/4749_000_12/20170405222746099_VPB3MWWDT.jpg/11300872487494.jpg?type=m4500_4500_fst</item>
+        <item name="Imsil_URL">http://cheese.invil.org/index.html</item>
+    </string-array>
+
+    <string-array name="Gwanghanru">
+        <item name="Gwanghanru_name">광한루</item>
+        <item name="Gwanghanru_intro">겨우와 직녀의 전설이 담긴 오작교를 비롯하여, 춘향전의 바탕이 된 곳이고 매년 5월5일에 춘향제가 개최된다.</item>
+        <item name="Gwanghanru_addr">전라북도 남원시 요천로 1447 광한루</item>
+        <item name="Gwanghanru_time">평일: 08:00~20:00</item>
+        <item name="Gwanghanru_pay">어른: 3000원</item>
+        <item name="Gwanghanru_phone">063-625-4861</item>
+        <item name="Gwanghanru_image1">http://blogfiles13.naver.net/20160416_264/daramjuo_1460767545000CNKNx_JPEG/LJI_8653_copy.jpg</item>
+        <item name="Gwanghanru_image2">http://blogfiles5.naver.net/20101115_202/stst7979_1289788080412V30ss_jpg/%B1%A4%C7%D1%B7%E71-1_stst7979.jpg</item>
+        <item name="Gwanghanru_image3">http://blogfiles5.naver.net/20140422_162/goodnamwon_1398155725810OmFMe_JPEG/IMG_7898.jpg</item>
+        <item name="Gwanghanru_image4">http://blogfiles5.naver.net/MjAxNzEwMjhfMjk5/MDAxNTA5MTkwOTQ2NjUz.6KNZmHUnToBExXPkZX-wxu8CD4yBtcIxXd9HzEEidusg.q8M5z6Pr7hzlDiGCUJQ5CLkAYkepQFjrdcmI6d1sb9gg.JPEG.gksdns56/%B2%D9%B9%CC%B1%E2_%B3%B2%BF%F8_%B1%A4%C7%D1%B7%E7_%BE%DF%B0%E6_155.JPG</item>
+        <item name="Gwanghanru_URL">http://www.namwon.go.kr/tour/index.do</item>
+    </string-array>
+
+    <string-array name="Hanbat">
+        <item name="Hanbat_name">한밭수목원</item>
+        <item name="Hanbat_intro">371,000㎡의 넓은 부지에 동원과 서원 열대식물원으로 여러 가지 종류의 식물들을 볼 수 있다. </item>
+        <item name="Hanbat_addr">대전 서구 둔산대로 169</item>
+        <item name="Hanbat_time">06:00~21:00</item>
+        <item name="Hanbat_pay">무료</item>
+        <item name="Hanbat_phone">042-270-8452</item>
+        <item name="Hanbat_image1">http://blogfiles7.naver.net/20120423_64/syren4u_1335170239029wQxOW_JPEG/%C1%A6%B8%F1_%BE%F8%C0%BD-1.jpg</item>
+        <item name="Hanbat_image2">http://post.phinf.naver.net/MjAxNjExMDhfMTUg/MDAxNDc4NTgwMTM5OTEw.x0i93rmkkxM7HuQh7HU8GGOtDbJVbjAvA5zsvh-N9dwg.fatgL9Fc9iWB7N1aHx0QEgVGW9B4Tq5tgza7LrdgPgQg.JPEG/IihWcZhF-0IPHIJqppdi0aIqHeXg.jpg</item>
+        <item name="Hanbat_image3">https://dbscthumb-phinf.pstatic.net/2765_000_9/20171018230009103_E6LPAXPP6.jpg/8644822.jpg?type=m4500_4500_fst</item>
+        <item name="Hanbat_image4">http://cafefiles.naver.net/20150707_76/dbflvos_1436273050231CBc4X_JPEG/cropIMG_0499%BA%B8%C1%A4.jpg</item>
+        <item name="Hanbat_URL">http://www.namwon.go.kr/tour/index.do</item>
+    </string-array>
+
+    <string-array name="Oworld">
+        <item name="Oworld_name">오월드</item>
+        <item name="Oworld_intro">총 17만 6천평 부지에 녹지 공간, 동물사, 유희시설, 조각 공원 등을 마련하고 세계 최초로 나이트 사파리를 운영하고 있다. 세계 희귀종인 록키산양 등 140종 700수의 다양한 동물전시로 체험할 수 있다.</item>
+        <item name="Oworld_addr">대전광역시 중구 사정동 산39-1</item>
+        <item name="Oworld_time">평일: 09:30~18:00</item>
+        <item name="Oworld_pay">성인: 12000원</item>
+        <item name="Oworld_phone">042-580-4820</item>
+        <item name="Oworld_image1">http://post.phinf.naver.net/MjAxNzA1MzFfMjI0/MDAxNDk2MTk1OTIzMzk5.ncfUWChJzkzxnQLDlps8ml8giOHcGrb9vlb961ETWD4g.OpuQFQ3-vzMEGXAkz6c94XE2wtvT7QlctOT0tiKDtxAg.JPEG/IlRVeshKs8NIBFyriI7hL2YqZ-no.jpg</item>
+        <item name="Oworld_image2">http://imgnews.naver.com/image/001/2017/07/20/AKR20170720075000063_01_i_20170720110704228.jpg</item>
+        <item name="Oworld_image3">http://post.phinf.naver.net/MjAxNjExMDZfMjgy/MDAxNDc4NDI3OTMwNDEw.8Dyw0KgSeymkHozwZq9xPVEZ5LPBv-AVtxj2rbF4CJQg.VgVFTc-tfxWIqf0apFrrLUElGtdwOWe1M1wSJStALTUg.JPEG/mug_obj_201611061925306881.jpg</item>
+        <item name="Oworld_image4">http://blogfiles5.naver.net/20140430_172/khs4504724_13988378175062NuSt_JPEG/IMG_2876.JPG</item>
+        <item name="Oworld_URL">http://www.oworld.kr/</item>
+    </string-array>
+
+    <string-array name="Science">
+        <item name="Science_name">국립중앙과학관</item>
+        <item name="Science_intro"> 우주체험관, 천체관, 생물탐구관 등 전시관이 있고, 과학교육프로그램을 운영하며, 별자리여행, 천체과학교실 등의 행사를 개최하고 있다. </item>
+        <item name="Science_addr">대전광역시 유성구 대덕대로 481 국립중앙과학관</item>
+        <item name="Science_time">09:30~17:30</item>
+        <item name="Science_pay">일반: 2000원</item>
+        <item name="Science_phone">042-601-7894</item>
+        <item name="Science_image1">http://post.phinf.naver.net/MjAxNzA4MDhfMTQ2/MDAxNTAyMTUzOTc0MjM0.CJ2POBBuMUMmJmVwnv_OzWllUAjPxiRLnY1NSlpBVqcg.MUBIzJxuvc4i7ypVOHH7Ltrsdg__myHUGSZbgOO6hgEg.JPEG/mug_obj_201708080959361824.jpg</item>
+        <item name="Science_image2">http://blogfiles5.naver.net/MjAxODAzMThfMjMx/MDAxNTIxMzgzODgzOTA2.El9sRIas85X9IHgLFgpLWUGW--IHnt13ts37SQCznRog.JjKxMv4RJlLM27E8DruWiVCAD71pcAHvwDVKvjwzWXQg.JPEG.bodre7/20180318_172600.jpg</item>
+        <item name="Science_image3">http://blogfiles5.naver.net/20160327_82/style0716_1459029351112VPef9_JPEG/%B4%EB%C0%FC%B1%B9%B8%B3%C1%DF%BE%D3%B0%FA%C7%D0%B0%FC_25.JPG</item>
+        <item name="Science_image4">http://blogfiles5.naver.net/20140905_131/redapple0104_1409882493943gownh_JPEG/%B4%EB%C0%FC%B1%B9%B8%B3%C1%DF%BE%D3%B0%FA%C7%D0%B0%FC1.jpg</item>
+        <item name="Science_URL">https://www.science.go.kr/</item>
+    </string-array>
+
+    <string-array name="Namsan">
+        <item name="Namsan_name">남산타워</item>
+        <item name="Namsan_intro"> ‘남산서울타워’는 서울 시내 전 지역에서 바라보이는 탑의 높이와 독특한 구조, 형태 등으로 인하여 시민의 관심과 사랑의 대상이 되었고, 내외국인들이 즐겨 찾는 제1의 관광 명소로서의 위치를 확고히 하고 있습니다. 최근에는 한류 바람을 몰고 온 각종 예능, 드라마의 촬영지로 이름이 높아지면서 내외국인 관광객들이 발길이 끊이지 않는 곳입니다.</item>
+        <item name="Namsan_addr">서울 용산구 남산공원길 105</item>
+        <item name="Namsan_time">10:00~22:00</item>
+        <item name="Namsan_pay">전망대 대인: 10000</item>
+        <item name="Namsan_phone">X</item>
+        <item name="Namsan_image1">http://thumb.photo.naver.net/20160927_281/hwefan_14749366449984j2jK_JPEG/%B3%B2%BB%EA%C5%B8%BF%F6.jpg</item>
+        <item name="Namsan_image2">http://imgnews.naver.com/image/5437/2017/09/01/0000005988_003_20170901161133007.jpg</item>
+        <item name="Namsan_image3">http://cafefiles.naver.net/data30/2008/4/27/259/dsc_3496_sunjinsp.jpg</item>
+        <item name="Namsan_image4">http://cafefiles.naver.net/20141104_51/vn1024_14150629270125JMYV_JPEG/20141101210713_IMG_0745.JPG</item>
+        <item name="Namsan_URL">http://www.seoultower.co.kr/</item>
+    </string-array>
+
+    <string-array name="Changdeokgung">
+        <item name="Changdeokgung_name">창덕궁</item>
+        <item name="Changdeokgung_intro"> 창덕궁은 1405년 경복궁의 이궁으로 지은 궁궐이다. 현재 남아있는 조선의 궁궐 중 그 원형이 가장 잘 보존된 창덕궁은 자연과의 조화로운 배치가 탁월한 점에서 1997년 유네스코 세계문화유산으로 등록되었다.</item>
+        <item name="Changdeokgung_addr">서울특별시 중구 세종대로 99 덕수궁</item>
+        <item name="Changdeokgung_time">09:00~18:00</item>
+        <item name="Changdeokgung_pay">일반: 3000원</item>
+        <item name="Changdeokgung_phone">02-3668-2300</item>
+        <item name="Changdeokgung_image1">http://imgnews.naver.com/image/421/2018/03/15/0003258920_001_20180315094141153.jpg</item>
+        <item name="Changdeokgung_image2">http://imgnews.naver.com/image/032/2018/03/19/0002858658_002_20180319210242170.jpg</item>
+        <item name="Changdeokgung_image3">http://blogfiles5.naver.net/20120508_98/factorno1_1336439664818HL9Bt_JPEG/CWS_2347.jpg</item>
+        <item name="Changdeokgung_image4">http://blogfiles8.naver.net/data11/2005/8/18/11/%C1%D6%C7%D5%B7%E75-stork.jpg</item>
+        <item name="Changdeokgung_URL">http://www.cdg.go.kr/</item>
+    </string-array>
+
+    <string-array name="Lotteworld">
+        <item name="Lotteworld_name">롯데월드</item>
+        <item name="Lotteworld_intro"> 롯데월드 어드벤처는 대규모의 실내 공원으로, 모험과 신비를 주제로 한 탑승시설, 관람시설, 공연 프로그램, 세계의 거리로 구성되어 있으며, 미국, 일본이 만든 디즈니랜드, 캐나다의 에드먼튼, 미국의 킹아일랜드 등과 비등한 규모이다.</item>
+        <item name="Lotteworld_addr">서울특별시 송파구 올림픽로 240 롯데월드</item>
+        <item name="Lotteworld_time">09:30~22:00</item>
+        <item name="Lotteworld_pay">일반: 2000원</item>
+        <item name="Lotteworld_phone">1661-2000</item>
+        <item name="Lotteworld_image1">http://post.phinf.naver.net/20160707_13/1467882843215hKCCY_JPEG/IiwR79xDLH5MuA3CJPyytmXQQzvo.jpg</item>
+        <item name="Lotteworld_image2">http://thumb.photo.naver.net/20141010_273/myungkugood_1412948682878OgXJq_JPEG/20131110-_DSC6399.jpg</item>
+        <item name="Lotteworld_image3">http://blogfiles6.naver.net/20111017_96/kingkahyojin_13188366648638phuf_JPEG/1.jpg</item>
+        <item name="Lotteworld_image4">http://post.phinf.naver.net/MjAxNzAxMDJfNyAg/MDAxNDgzMzE1MzY4NzE1.TtR8rynlKkcL2OGk7Mw8c52TnpOn_U1Ws79zS9mdwyIg.uc9BvUoW8afBdboreLqd9-u5y0huKfiPf1YdOEWH8TMg.JPEG/Ijvxl04YWpLEa-n13Q3IrKewgGco.jpg</item>
+        <item name="Lotteworld_URL">http://www.lotteworld.com/</item>
+    </string-array>
+
+    <string-array name="Gungnam">
+        <item name="Gungnam_name">궁남지</item>
+        <item name="Gungnam_intro"> 우리나라 최초의 인공정원이다. 백제 무왕 때 만들어졌으며, 무왕과 선화공주의 이야기가 담긴 곳이다. </item>
+        <item name="Gungnam_addr">충남 부여군 부여읍 궁남로 52</item>
+        <item name="Gungnam_time">항시개방</item>
+        <item name="Gungnam_pay">일반: 2000원</item>
+        <item name="Gungnam_phone">041-830-2330</item>
+        <item name="Gungnam_image1">http://thumb.photo.naver.net/data15/gallery/2004-05/25/42/75m3274m0.jpg</item>
+        <item name="Gungnam_image2">https://dbscthumb-phinf.pstatic.net/1694_000_6/20130611164740240_JTLX74C8C.jpg/z2_rp07031066000.jpg?type=m4500_4500_fst_kocca</item>
+        <item name="Gungnam_image3">http://post.phinf.naver.net/MjAxNzA3MTBfMjk5/MDAxNDk5Njc3MDQ1MTg4.WeWlfVcYRvZQVaWDEcx3fBEGCUwouUlL1Us0x4dWK0cg.pdrVn7jk2NCwUtonZ4bpxa9zVXutF7O1FM7TD2NRj7Ug.JPEG/IyOsO7RoX6pjYhM32m3pOE8o47PY.jpg</item>
+        <item name="Gungnam_image4">http://post.phinf.naver.net/MjAxNzA3MDFfMjky/MDAxNDk4ODg5NzMxMzEx.ru_RqN7NGW0-DmxdujMPq5HI814i0FwUc2pBPO9eZQ4g.WHJzFhBT5bqlOJ7O8banRHSPmipjreRvdidAdY68lNYg.JPEG/IXIMlt2XLmQL-Zj2dcPQAODZgo0s.jpg</item>
+        <item name="Gungnam_URL">X</item>
+    </string-array>
+
+    <string-array name="Minsok">
+        <item name="Minsok_name">외암 민속마을</item>
+        <item name="Minsok_intro">아산 출신의 조선후기 성리학자 외암 이간 선생이 살던 마을이다. 영화 ‘취화선’, ‘태극기 휘날리며’의 촬영지로 유명하다. </item>
+        <item name="Minsok_addr">충남 아산시 송악면 외암민속길9번길 13-2</item>
+        <item name="Minsok_time">09:00~18:00</item>
+        <item name="Minsok_pay">일반: 2000원</item>
+        <item name="Minsok_phone">041-541-0848</item>
+        <item name="Minsok_image1">http://imgnews.naver.com/image/032/2010/09/14/20100915.01200126000002.02L.jpg</item>
+        <item name="Minsok_image2">https://dbscthumb-phinf.pstatic.net/2472_000_1/20160608181818570_0WNUYJQS2.jpg/comd1_1_i42.jpg?type=m4500_4500_fst_n</item>
+        <item name="Minsok_image3">http://blogfiles5.naver.net/data42/2009/4/4/57/2_kt2535.jpg</item>
+        <item name="Minsok_image4">http://cafefiles.naver.net/20130520_48/hydelovers_1369018489212lw7U0_JPEG/23_1.jpg</item>
+        <item name="Minsok_URL">X</item>
+    </string-array>
+
+
+    <string-array name="Sudeoksa">
+        <item name="Sudeoksa_name">수덕사</item>
+        <item name="Sudeoksa_intro">우리나라를 대표하는 목조건물 ‘수덕사 대웅전’과 ‘삼층석탑’, ‘금강보탑’ 등 수덕사의 정밀한 건축양식을 볼 수 있으며, 바라만 봐도 평안해지는 수덕사의 전경을 볼 수있다.  </item>
+        <item name="Sudeoksa_addr">충남 예산군 덕산면 수덕사안길 79 수덕사</item>
+        <item name="Sudeoksa_time">09:00~18:00</item>
+        <item name="Sudeoksa_pay">무료</item>
+        <item name="Sudeoksa_phone">041-330-7700</item>
+        <item name="Sudeoksa_image1">https://dbscthumb-phinf.pstatic.net/2765_000_45/20131020154757822_8X74H0P8G.jpg/740717.jpg?type=m4500_4500_fst</item>
+        <item name="Sudeoksa_image2">https://dbscthumb-phinf.pstatic.net/2765_000_45/20131020155023545_R6FG96TA7.jpg/740856.jpg?type=m4500_4500_fst</item>
+        <item name="Sudeoksa_image3">https://dbscthumb-phinf.pstatic.net/2765_000_1/20131014003654123_KNEGCVUEA.jpg/189667.jpg?type=m4500_4500_fst</item>
+        <item name="Sudeoksa_image4">https://dbscthumb-phinf.pstatic.net/2765_000_45/20131020154559506_JVV887BVC.jpg/740626.jpg?type=m4500_4500_fst</item>
+        <item name="Sudeoksa_URL">http://www.sudeoksa.com/</item>
+    </string-array>
+
+
+    <string-array name="Daewang">
+        <item name="Daewang_name">대왕암공원</item>
+        <item name="Daewang_intro">대왕암은 용추암 또는 댕바위라고도 불리며 육지에 있는 바위와 철교로 연결된다. 진입로부터 펼쳐진 해송림과 고려턱뼈 조형물로 유명하며, 바닷가에는 대왕암 외에도 남근바위·탕건바위·자살바위·처녀봉·용굴 등 기암들이 있다.</item>
+        <item name="Daewang_addr">울산 동구 일산동 산907</item>
+        <item name="Daewang_time">상시개방</item>
+        <item name="Daewang_pay">무료</item>
+        <item name="Daewang_phone">052-209-3753</item>
+        <item name="Daewang_image1">http://blogfiles1.naver.net/20160124_229/mhs8955_1453640985236WWMhn_JPEG/IMG_8002.JPG</item>
+        <item name="Daewang_image2">http://blogfiles5.naver.net/MjAxNzA4MjhfMTU4/MDAxNTAzODc4MjM3ODY4.zqGWF-CKmB555GYCUM4hlOMWuvM8dFjyHJHUMkhpw_Mg.a-wDv6SmAwmEIIjenJG200LrpCpSj76sa7KvxhYZEAQg.JPEG.flwlflwl5592/1503820438651.jpg</item>
+        <item name="Daewang_image3">http://blogfiles5.naver.net/MjAxNzA4MjhfMjM5/MDAxNTAzODc4MjI2NzQ2._0NgWs-ha1s3I-q1qlWh0oOZuObPiqtw8PKrVYRXqiYg.6m5qUHu9BOXnYBrjphYivmRjteVjD8_bmaeKy-dQWMgg.JPEG.flwlflwl5592/20170827_120725.jpg</item>
+        <item name="Daewang_image4">http://blogfiles1.naver.net/20151222_88/purityguy68_1450786348624ASzoC_JPEG/IMG_6383.JPG</item>
+        <item name="Daewang_URL">http://daewangam.donggu.ulsan.kr/</item>
+    </string-array>
+
+    <string-array name="Jasujeong">
+        <item name="Jasujeong_name">자수정동굴</item>
+        <item name="Jasujeong_intro">울주군과 언양읍 일대는 세계적인 자수정 산지로 100여 개의 자수정 광산이 있는데, 이 중 한 폐광을 관광지로 개발한 것이다. 동굴 길이는 2.5km, 실내 온도는 10∼14℃로 여름에는 시원하고 겨울에는 따뜻하다. 이러한 동굴의 특성을 이용하여 자수정전시관과 독도관·인류변천사관 등의 전시관을 비롯하여 인도네시아 원시부족 풍물전 등을 운영하고 매일 5회의 이벤트를 열고 있다.</item>
+        <item name="Jasujeong_addr">울산광역시 울주군 삼남면 가천리</item>
+        <item name="Jasujeong_time">09:00~18:00</item>
+        <item name="Jasujeong_pay">대인: 7000</item>
+        <item name="Jasujeong_phone">052-254-1515</item>
+        <item name="Jasujeong_image1">http://blogfiles11.naver.net/20130611_57/lks1dlsa_1370928933265AnCVE_JPEG/naver_com_20130611_143449.jpg</item>
+        <item name="Jasujeong_image2">http://blogfiles7.naver.net/20130611_168/lks1dlsa_1370929008979zzF1u_JPEG/naver_com_20130611_143610.jpg</item>
+        <item name="Jasujeong_image3">http://blogfiles6.naver.net/20130611_248/lks1dlsa_1370929008741jHEga_JPEG/naver_com_20130611_143459.jpg</item>
+        <item name="Jasujeong_image4">http://blogfiles7.naver.net/20130927_83/iopm1122_13802439778055ugzq_JPEG/DSC00915.JPG</item>
+        <item name="Jasujeong_URL">http://www.jsjland.co.kr/main.html</item>
+    </string-array>
+
+</resources>

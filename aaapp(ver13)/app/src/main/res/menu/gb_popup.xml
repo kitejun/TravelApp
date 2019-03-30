@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/gyeongsangbukdo"
+        android:title="경상북도"/>
+
+    <item
+        android:id="@+id/daegu"
+        android:title="대구"/>
+
+    <item
+        android:id="@+id/ulsan"
+        android:title="울산"/>
+
+</menu>

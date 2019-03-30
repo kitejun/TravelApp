@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.aaapp">
+
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+    <uses-permission android:name="android.permission.CALL_PHONE" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/icon"
+        android:label="@string/app"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity android:name=".MainActivity" />
+        <activity
+            android:name=".intro"
+            android:theme="@style/intro">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".Jeonnam" />
+        <activity android:name=".JN" />
+        <activity android:name=".Seoul" />
+        <activity android:name=".Gangwondo" />
+        <activity android:name=".Gyeongsangbukdo" />
+        <activity android:name=".Gyeongsangnamdo" />
+        <activity android:name=".Jeollabukdo" />
+        <activity android:name=".Daejeon" />
+        <activity android:name=".Gyeonggido" />
+        <activity android:name=".Incheon" />
+        <activity android:name=".Jeju" />
+        <activity android:name=".Daegu" />
+        <activity android:name=".Busan" />
+        <activity android:name=".Gwangju" />
+        <activity android:name=".Ulsan" />
+        <activity android:name=".Chungnam" />
+        <activity android:name=".Chungbuk"></activity>
+    </application>
+
+</manifest>

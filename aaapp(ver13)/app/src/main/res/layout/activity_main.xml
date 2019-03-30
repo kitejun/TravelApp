@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+    <TextView
+        android:padding="10dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="지역을 선택하세요"
+        android:gravity="center"
+        android:textColor="#000000"
+        android:textSize="30dp"/>
+
+    <AbsoluteLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_marginTop="40dp"
+        android:layout_marginLeft="50dp">
+
+        <ImageButton
+            android:id="@+id/gg"
+            android:layout_width="116dp"
+            android:layout_height="106dp"
+            android:layout_x="51dp"
+            android:layout_y="23dp"
+            android:background="#00ffffff"
+            android:onClick="Area"
+            android:src="@drawable/a" />
+
+        <ImageButton
+            android:id="@+id/gb"
+            android:layout_width="125dp"
+            android:layout_height="144dp"
+            android:layout_x="172dp"
+            android:layout_y="112dp"
+            android:background="#00ffffff"
+            android:src="@drawable/b"
+            android:onClick="Area"/>
+
+        <ImageButton
+            android:id="@+id/cb"
+            android:layout_width="76dp"
+            android:layout_height="97dp"
+            android:layout_x="139dp"
+            android:layout_y="106dp"
+            android:background="#00ffffff"
+            android:src="@drawable/c"
+            android:onClick="Area"/>
+
+        <ImageButton
+            android:id="@+id/gw"
+            android:layout_width="135dp"
+            android:layout_height="113dp"
+            android:layout_x="128dp"
+            android:layout_y="4dp"
+            android:background="#00ffffff"
+            android:src="@drawable/d"
+            android:onClick="Area"/>
+
+        <ImageButton
+            android:id="@+id/cn"
+            android:layout_width="123dp"
+            android:layout_height="85dp"
+            android:layout_marginStart="60dp"
+            android:layout_x="34dp"
+            android:layout_y="119dp"
+            android:background="#00ffffff"
+            android:src="@drawable/e"
+            android:onClick="Area"/>
+
+        <ImageButton
+            android:id="@+id/jj"
+            android:layout_width="70dp"
+            android:layout_height="40dp"
+            android:layout_marginBottom="27dp"
+            android:layout_x="11dp"
+            android:layout_y="358dp"
+            android:background="#00ffffff"
+            android:src="@drawable/f"
+            android:onClick="Area"/>
+
+        <ImageButton
+            android:id="@+id/jb"
+            android:layout_width="93dp"
+            android:layout_height="67dp"
+            android:layout_x="79dp"
+            android:layout_y="191dp"
+            android:background="#00ffffff"
+            android:src="@drawable/g"
+            android:onClick="Area"/>
+
+        <ImageButton
+            android:id="@+id/jn"
+            android:layout_width="129dp"
+            android:layout_height="103dp"
+            android:layout_x="42dp"
+            android:layout_y="247dp"
+            android:background="#00ffffff"
+            android:src="@drawable/h"
+            android:onClick="Area"/>
+
+        <ImageButton
+            android:id="@+id/gn"
+            android:layout_width="111dp"
+            android:layout_height="94dp"
+            android:layout_marginBottom="138dp"
+            android:layout_x="158dp"
+            android:layout_y="215dp"
+            android:background="#00ffffff"
+            android:src="@drawable/i"
+            android:onClick="Area"/>
+    </AbsoluteLayout>
+</LinearLayout>
